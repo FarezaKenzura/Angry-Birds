@@ -1,2 +1,2 @@
 # Angry-Birds
-Angry Birds for Dilo Academy
+Angry Birds for Games
